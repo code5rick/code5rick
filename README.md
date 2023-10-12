@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @code5rick
-- 👀 I’m interested in learning more
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on new projects
+![c5-email](https://github.com/code5rick/code5rick/assets/131262825/9be22d32-3397-443a-8197-3382baffefa3)
 
-<!---
-code5rick/code5rick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<b>Ricardo Freire</b> <br/>
+Codefive Software
